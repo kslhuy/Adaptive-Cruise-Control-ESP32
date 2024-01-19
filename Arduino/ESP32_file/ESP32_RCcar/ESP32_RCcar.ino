@@ -17,7 +17,7 @@
 // #include "UltrasonicSensor.h"
 #include "VehicleLogic.cpp"
 
-#include <ESP32Servo.h>
+// #include <ESP32Servo.h>
 
 
 const char* ssid = "laptophuy";
